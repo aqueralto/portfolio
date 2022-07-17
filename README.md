@@ -1,6 +1,5 @@
 <h1 align="center">Data Science and Programming Portfolio</h1>  
 <p align="center">
-  <img src="https://img.shields.io/badge/-%2315509E.svg?&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&logo=numpy&logoColor=white"/> 
   <img src="https://img.shields.io/badge/pandas-%23130754.svg?logo=pandas&logoColor=white"/>
@@ -27,5 +26,5 @@
 
 
 <!-- icons -->
-[1]: [https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor](https://github.com/kellibelcher/kellibelcher/blob/main/images/python24.png) (Python) 
+[1]: [https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor](Python) 
 [2]: https://www.python.org/
