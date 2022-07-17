@@ -27,5 +27,5 @@
 
 
 <!-- icons -->
-[1]: [https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor](https://github.com/kellibelcher/kellibelcher/blob/main/images/python24.png (Python) 
+[1]: [https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor](https://github.com/kellibelcher/kellibelcher/blob/main/images/python24.png) (Python) 
 [2]: https://www.python.org/
