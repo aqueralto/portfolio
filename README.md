@@ -11,7 +11,7 @@
 <br/>
 
 ## Python [![python][1]][2]
-### [Defining inkjet printing conditions of superconducting cuprate films through machine learning]([https://pubs.rsc.org/en/content/articlepdf/2022/tc/d1tc05913k])
+### [Defining inkjet printing conditions of superconducting cuprate films through machine learning](https://github.com/aqueralto/ml_ijp_deposition_paper)
 - Performed inkjet printing experiments and advanced characterizations to generate a dataset to perform machine learning.
 - Analyzed feature distribution and correlations, preprocessed the data and engineered features to develop machine learning models.
 - Developed 4 machine learning models, a linear regression that served as a benchmark model and 3 decision tree-based regression models (Random Forest, AdaBoost and Gradient Boosting).
@@ -26,5 +26,5 @@
 
 
 <!-- icons -->
-[1]: [https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor](Python) 
+[1]: https://github.com/kellibelcher/kellibelcher/blob/main/images/python24.png (Python) 
 [2]: https://www.python.org/
