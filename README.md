@@ -11,7 +11,7 @@
 </p>
 <br/>
 
-## Python [![python][3]][4]
+## Python [![python][1]][2]
 ### [Predicting the likelihood of a rocket launch success](https://github.com/kellibelcher/IBM-Data-Science-Capstone) 🚀
 - Used a REST API and web scraping tools to collect data related to SpaceX launches.
 - Created interactive maps, graphs, and a [Plotly dashboard](http://spacexdashappkellibelcher.pythonanywhere.com/) to explore the data and identify important features.
