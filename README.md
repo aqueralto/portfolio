@@ -21,5 +21,5 @@
 
 
 <!-- icons -->
-[1]: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fpython-logo-png-python-logo-png-img-1000-1000-free-transparent-python-png-900x900.jpg&f=1&nofb=1 (Python) 
+[1]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor (Python) 
 [2]: https://www.python.org/
