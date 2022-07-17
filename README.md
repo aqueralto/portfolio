@@ -18,7 +18,7 @@
 - Predicted the number of drops deposited and the total volume required for optimal inkjet printing deposition with accuracies of 0.98-0.99.
 - Identified the most important features,drop and line spacing, as well as drop volume, and their influence in the optimization process.
 
-### [Predicting the Survival of Passangers from the Titanic]([https://www.kaggle.com/code/albertqueralto/surviving-titanic-with-ml])
+### [Predicting the Survival of Passangers from the Titanic](https://www.kaggle.com/code/albertqueralto/surviving-titanic-with-ml)
 - Performed feature engineering, preprocessing and exploratory data analysis on the Titanic dataset.
 - Developed 5 machine learning models to compare their outputs. The best ones (Random Forest Classifier and XGBoost Classifier were selected for hyperparameter tuning. <b>Best score = 0.76315</b>.
 
